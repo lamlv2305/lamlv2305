@@ -11,21 +11,23 @@ I'm a professional **Fullstack Developer** with deep expertise in:
 ### 🔧 Tech Stack
 
 - **Backend:** Golang, gRPC, REST, PostgreSQL, Redis  
-- **Blockchain:** Ethereum, BSC, Polygon, Solidity, Web3, Token integrations  
+- **Blockchain:** EVM based, Solidity, Web3, Token integrations  
 - **Mobile:** React Native, Swift, Kotlin, Expo, CodePush  
 - **Frontend:** React.js, Next.js, TailwindCSS  
 - **DevOps:** Docker, CI/CD, Nginx, Linux
 
 ---
 
-### 📈 Projects & Contributions
+### 📈 Experience Highlights
 
-I love building performance-critical systems, secure blockchain integrations, and sleek mobile experiences.  
-Check out my repositories for real-world examples of:
+I build performance-critical systems, secure blockchain integrations, and sleek mobile experiences.  
+My work includes:
 
 - Centralized exchange architecture  
 - Cross-chain EVM token support  
 - Scalable backend services in Go  
-- Production-grade mobile apps
+- Production-grade mobile applications
 
-Thanks for stopping by! 🚀
+---
+
+Thanks for visiting! 🚀
